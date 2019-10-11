@@ -1,3 +1,0 @@
-Welcome.
-Here we will enter text. This is where we will practice Git bash.
-Stay Connected :)
